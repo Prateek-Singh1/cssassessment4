@@ -1,0 +1,197 @@
+.heading {
+    border:0px solid;
+    background: linear-gradient(to right, red,green,lightgreen,yellow);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contact {
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 600px;
+    height: 70px;
+    margin-left: 200px;
+    padding:0px 0px 0px 0px;
+    background-color: rgb(180, 237, 255);
+
+}
+
+.block {
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: rgb(135, 253, 214);
+    width: 1000px;
+    height: 170px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.box1 {
+    border: 2px solid green;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(41, 219, 250);
+}
+
+.box2 {
+    border: 2px solid green;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(41, 219, 250);
+}
+
+.box3 {
+    border: 2px solid green;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(41, 219, 250);
+}
+
+.box4 {
+    border: 2px solid green;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(41, 219, 250);
+}
+
+.heading2 {
+    background:radial-gradient(yellow,orange,red);
+    text-align: center;
+    text-decoration: underline;
+    border-bottom: red;
+    text-decoration-color: red;
+    height: 30px;
+}
+
+.block2 {
+    height: 120px;
+    border: 2px solid green;
+    background:radial-gradient(green,lightgreen,blue);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.box5 {
+    width: 150px;
+    height: 70px;
+    line-height: 20px;
+    border-radius: 10px;
+    border: 2px solid red;
+    background-color: yellow;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.box6 {
+    width: 150px;
+    height: 70px;
+    line-height: 20px;
+    border-radius: 10px;
+    border: 2px solid red;
+    background-color: yellow;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.box7 {
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+    line-height: 20px;
+    border: 2px solid red;
+    background-color: yellow;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.box8 {
+    width: 150px;
+    height: 70px;
+    border-radius: 10px;
+    line-height: 20px;
+    border: 2px solid red;
+    background-color: yellow;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.career {
+    border: 0px solid ;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+table{
+    margin-top: 20px;
+}
+
+td{
+    padding: 5px;
+    border: 4px white solid;
+}
+
+.box9 {
+    background-color:rgb(70, 255, 70);
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+    width: 31%;
+}
+
+.box10{
+    background-color:rgb(36, 186, 255);
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+    width: 31%;
+}
+
+.box11{
+    background-color:rgb(120, 1, 255);
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+    width: 31%;
+}
+
+.box12{
+    background-color:black;
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+}
+
+.box13{
+    margin-top: 20px;
+    background-color: orange;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+}
+
+.best {
+    border: 0px solid;
+    background-color: teal;
+    text-align: center;
+
+}
